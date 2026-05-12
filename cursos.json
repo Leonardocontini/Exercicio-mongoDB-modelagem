@@ -1,0 +1,16 @@
+{
+  "_id": 1,
+  "nome": "Desenvolvimento Android",
+  "categoria": "Programação",
+  "carga_horaria_total": 60,
+  "modulos": [
+    {
+      "nome": "Introdução ao Kotlin",
+      "carga_horaria": 10
+    },
+    {
+      "nome": "Layouts Android",
+      "carga_horaria": 20
+    }
+  ]
+}
